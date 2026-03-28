@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260328-001",
+  "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-03-27T16:38:58.810905+00:00",
+  "collected_at": "2026-03-27T16:38:58.810905+00:00",
+  "summary": "作者在低成本 VPS 上部署了一个 AI 代理，并使用 IRC 作为传输层，展示了轻量级、经济高效的 AI 代理部署方案。该项目突出了 AI 代理与现有通信协议集成的实用性和可访问性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-27T16:39:47.987927+00:00"
+}

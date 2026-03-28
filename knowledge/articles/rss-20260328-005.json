@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260328-005",
+  "title": "AutoSAM: an Agentic Framework for Automating Input File Generation for the SAM Code with Multi-Modal Retrieval-Augmented Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.24736",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-27T16:39:03.507800+00:00",
+  "collected_at": "2026-03-27T16:39:03.507800+00:00",
+  "summary": "AutoSAM 是一个基于智能体框架的系统，利用多模态检索增强生成技术，自动为 SAM 代码生成输入文件。该框架通过整合多模态信息检索和生成能力，提升了输入文件生成的自动化水平和准确性，为复杂仿真代码的配置提供了高效解决方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "multi-agent",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-27T16:39:47.987941+00:00"
+}

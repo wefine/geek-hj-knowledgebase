@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260328-003",
+  "title": "ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2603.24621",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-03-27T16:39:03.507763+00:00",
+  "collected_at": "2026-03-27T16:39:03.507763+00:00",
+  "summary": "ARC-AGI-3 是一个新的基准测试，旨在挑战前沿智能体（Agent）在复杂推理和任务执行方面的能力，为评估和推进智能体智能水平提供了重要工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-03-27T16:39:47.987935+00:00"
+}
